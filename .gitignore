@@ -1,0 +1,24 @@
+# PlatformIO Core ignore file
+.pio/
+.vscode/
+*.pyc
+*.swp
+.DS_Store
+*.bin
+*.elf
+*.map
+*.hex
+*.dat
+*.log
+*.dmp
+
+# Arduino IDE-related
+*.ino.*
+*.tmp.cpp
+*.cpp.d
+*.o
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
